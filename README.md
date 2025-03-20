@@ -1,1 +1,2 @@
-# Курс "Network Engineer. Basic" от OTUS.RU
+# Домашние задания по курсу "Network Engineer. Basic" от OTUS.RU
+[1. Лабараторная работа. Базовая настройка коммутатора](/lab-01/README.md)
