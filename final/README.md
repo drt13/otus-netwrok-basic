@@ -31,7 +31,6 @@
 ### 2. Проектирование сети
 
 #### 2.1 Топология
-
 ![](img/topology.png)
 
 Проект реализован в Cisco Packet Tracer - [выгрузка](otus_final.pkt). 
